@@ -53,5 +53,9 @@ Hand gesture recognition is a computer vision task that involves interpreting an
 
 ## Results
 - Achieved high accuracy in recognizing various hand gestures.  
-- Successfully implemented real-time gesture recognition with a responsive user interface.  
+- Successfully implemented real-time gesture recognition with a responsive user interface.
+
+---
+
+# Explore the dataset on Kaggle 🌐 [View Dataset ](https://www.kaggle.com/gti-upm/leapgestrecog)
 
